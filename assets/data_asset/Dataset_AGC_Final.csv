@@ -1,0 +1,513 @@
+Name,NRIC,Nationality,Age,Gender,Date(s) of Offence,Offence,Time of Offence,Monetary amount involved ,Statutory Provision,Penal Code Term Tenure,Penal Code Fine Guideline,Repeated Offender,Employment Status,Canning ,Jail term, Fine
+Tan Ah Kow,S1234567X,Singaporean,51,Male,10/01/2016-04/04/2016,Misappropriation,,35000.00,408,15,5000.00,Yes,Unemployed,0,12,6000.00
+Charles Goh ,G1234567T,Malaysian,37,Male,5/9/17,Misappropriation,4:00:00 PM,900.00,"406 , 34",7,100.00,No,Employed,0,3,100.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,Yes,Employed,0,5,1200.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,No,Unemployed,5,1,500.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Unemployed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Employed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,No,Unemployed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1200.00,Yes,Unemployed,0,8,1440.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,No,Employed,0,6,1000.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3000.00,408,15,500.00,Yes,Unemployed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,No,Unemployed,4,1,1000.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Employed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,5,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Employed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,9,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,9,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Unemployed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Unemployed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,No,Employed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/18,Misappropriation,,10050.00,408,15,1220.00,Yes,Unemployed,0,9,1464.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,No,Employed,9,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,No,Unemployed,0,6,1000.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3100.00,408,15,500.00,Yes,Employed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5200.00,408,15,800.00,No,Unemployed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,45,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Employed,4,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,9,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,Yes,Employed,0,5,1200.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,No,Employed,5,1,500.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Employed,9,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Unemployed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,5,2400.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/15,Misappropriation,,10000.00,408,15,1240.00,Yes,Unemployed,0,8,1488.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,No,Employed,9,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3200.00,408,15,500.00,Yes,Unemployed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,No,Employed,4,1,1000.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5300.00,408,15,800.00,No,Employed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,44,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,5,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Unemployed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,11000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Employed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Unemployed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Unemployed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,22000.00,"406 , 34",7,2000.00,No,Employed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/15,Misappropriation,,10000.00,408,15,1300.00,Yes,Unemployed,0,7,1560.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Unemployed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3220.00,408,15,500.00,No,Employed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5400.00,408,15,800.00,No,Unemployed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,35,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,5,1,1080.00
+Tan Ah Kow,S1234567X,Singaporean,51,Male,10/01/2016-04/04/2016,Misappropriation,,35000.00,408,15,5000.00,No,Employed,0,12,5000.00
+Charles Goha,G1234568T,Singaporean,38,Male,5/9/18,Misappropriation,4:00:00 PM,800.00,"406 , 34",7,150.00,No,Unemployed,0,3,150.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,Yes,Employed,0,5,1200.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Unemployed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Employed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Unemployed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,5,2400.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1230.00,Yes,Employed,0,8,1476.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Unemployed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3400.00,408,15,500.00,No,Unemployed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5200.00,408,15,800.00,No,Employed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Employed,0,8,1100.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,No,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Unemployed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3000.00,408,15,500.00,Yes,Employed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,6000.00,408,15,800.00,No,Employed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,44,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,6,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,No,Employed,0,6,3000.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Unemployed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,5,2400.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1300.00,Yes,Employed,0,8,1560.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,No,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3230.00,408,15,500.00,Yes,Unemployed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,No,Unemployed,4,1,1000.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5400.00,408,15,800.00,No,Employed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,No,Employed,0,7,2000.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Unemployed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Employed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,11000.00,"406 , 34",7,3000.00,Yes,Unemployed,0,6,3600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Unemployed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,22000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,5,2400.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Unemployed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,No,Employed,0,6,1000.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3430.00,408,15,500.00,No,Unemployed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Employed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,43,Male,3/4/11,Outrage Modesty,,,354(1),2,700.00,No,Unemployed,4,1,700.00
+Tan Ah Kow,S1234567X,Singaporean,51,Male,10/01/2016-04/04/2016,Misappropriation,,35000.00,408,15,5000.00,Yes,Employed,0,12,6000.00
+Charles Go,G1234569T,Malaysian,34,Male,5/9/19,Misappropriation,4:00:00 PM,920.00,"406 , 34",7,200.00,No,Employed,0,3,200.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,Yes,Unemployed,0,5,1200.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Employed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Unemployed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Employed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Unemployed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Unemployed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Employed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,No,Employed,9,1,500.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,11000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,7,2400.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Unemployed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,22000.00,"406 , 34",7,2000.00,No,Unemployed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1300.00,No,Employed,0,9,1300.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Unemployed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3400.00,408,15,500.00,Yes,Employed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,No,Employed,4,1,1000.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Employed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Unemployed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,800.00,Yes,Unemployed,4,1,960.00
+Tan Ah Kow,S1234567X,Singaporean,51,Male,10/01/2016-04/04/2016,Misappropriation,,35000.00,408,15,5000.00,Yes,Employed,0,12,6000.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Employed,5,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,11000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Unemployed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,22000.00,"406 , 34",7,2000.00,No,Unemployed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Unemployed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1400.00,Yes,Employed,0,8,1680.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Unemployed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,4000.00,408,15,500.00,No,Employed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Unemployed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,No,Employed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,47,Male,3/4/11,Outrage Modesty,,,354(1),2,940.00,Yes,Unemployed,6,1,1128.00
+Tan Ah Kow,S1234567X,Singaporean,51,Male,10/01/2016-04/04/2016,Misappropriation,,35000.00,408,15,5000.00,No,Unemployed,0,12,5000.00
+Charles Kia,G1234565T,Singaporean,38,Male,5/9/13,Misappropriation,4:00:00 PM,930.00,"406 , 34",7,400.00,No,Employed,0,3,400.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,Yes,Employed,0,5,1200.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Unemployed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Employed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Unemployed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Employed,4,1,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,No,Unemployed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1500.00,Yes,Employed,0,6,1800.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,No,Unemployed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,2800.00,408,15,500.00,No,Employed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Employed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Unemployed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,50,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Employed,4,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Unemployed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,7,2400.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Employed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,Yes,Employed,9,1,600.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,11000.00,"406 , 34",7,2000.00,No,Unemployed,0,7,2000.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Employed,4,1,600.00
+Lem Ah Kin,S7654343W,Singaporean,55,Female,12/5/19,Misappropriation,,22000.00,"406 , 34",7,2000.00,No,Employed,0,5,2000.00
+Kian Doman,S8763456K,Singaporean,44,Male,12/9/14,Misappropriation,,24000.00,408,15,2000.00,Yes,Unemployed,0,11,2400.00
+Sergey Brian,S45995978Y,Singaporean,65,Male,13/9/14,Misappropriation,,24000.00,408,15,1800.00,Yes,Unemployed,0,10,2160.00
+Heng Swee Chan,S45995967Y,Malaysian,34,Male,14/9/14,Misappropriation,,23000.00,"406 , 34",7,2000.00,Yes,Employed,0,6,2400.00
+Meryl Lee,S45995974T,Singaporean,21,Female,15/9/14,Misappropriation,,4000.00,408,15,1000.00,No,Employed,0,3,1000.00
+Kitman See,S45995459T,Singaporean,45,Male,16/9/14,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,7,1,1080.00
+Clement Lee,S4567895F,Singaporean,54,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,5,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,No,Unemployed,0,6,3000.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Employed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Unemployed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,No,Employed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1300.00,No,Unemployed,0,7,1300.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,No,Employed,0,6,1000.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3500.00,408,15,500.00,Yes,Unemployed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Unemployed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,5,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,900.00,Yes,Unemployed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,67,Male,3/4/11,Outrage Modesty,,,354(1),2,1200.00,No,Unemployed,4,1,1200.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,No,Employed,0,5,1000.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Unemployed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Unemployed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,No,Unemployed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1350.00,Yes,Employed,0,8,1620.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3000.00,408,15,500.00,No,Unemployed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,No,Unemployed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Jun Jie,S3456784H,Singaporean,33,Male,5/9/19,Outrage Modesty,,,354(1),2,1000.00,Yes,Unemployed,8,1,1200.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,No,Employed,0,8,1250.00
+Zhi Hao,S3456784Z,Singaporean,44,Male,7/9/19,Misappropriation,,12500.00,408,15,1200.00,No,Employed,0,9,1200.00
+Jia Hui,S3456784S,Singaporean,35,Female,8/9/19,Misappropriation,,14000.00,408,15,1500.00,Yes,Unemployed,0,10,1800.00
+Jia Hao,S3456784L,Singaporean,23,Male,9/9/19,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,8,2,1080.00
+Xin Yi,S3456784L,Singaporean,27,Female,10/9/19,Misappropriation,,3000.00,"406 , 34",7,500.00,No,Employed,0,2,500.00
+Hui Jie,S3456784Z,Singaporean,31,Male,11/9/19,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,9,2,1080.00
+Hui Min,S3456784S,Singaporean,35,Female,12/9/19,Misappropriation,,4000.00,"406 , 34",7,1000.00,No,Employed,0,2,1000.00
+Jia Yong,S3456784L,Singaporean,39,Male,13/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,6,1,840.00
+Jing Yi,S3456784R,Singaporean,43,Female,14/9/19,Misappropriation,,4500.00,"406 , 34",7,900.00,No,Unemployed,0,3,900.00
+Yi Wei,S3456784Z,Singaporean,47,Male,15/9/19,Misappropriation,,5000.00,408,15,900.00,Yes,Employed,0,6,1080.00
+Sze Jie,S3456784S,Singaporean,51,Male,16/9/19,Outrage Modesty,,,354(1),2,500.00,Yes,Employed,5,1,600.00
+Hui Ting,S3456784P,Singaporean,55,Female,17/9/19,Misappropriation,,7000.00,408,15,1000.00,No,Unemployed,0,7,1000.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Unemployed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,Yes,Unemployed,8,1,600.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,No,Employed,0,7,2000.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,61,Male,3/4/11,Outrage Modesty,,,354(1),2,2000.00,No,Employed,6,1,2000.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,900.00,Yes,Unemployed,8,1,1080.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,No,Unemployed,0,6,3000.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,No,Employed,0,5,1000.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Employed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Unemployed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Unemployed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Employed,0,5,2400.00
+Jun Jie,S3456784H,Singaporean,33,Male,5/9/19,Outrage Modesty,,,354(1),2,1000.00,No,Employed,8,1,1000.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,Yes,Unemployed,0,8,1500.00
+Zhi Hao,S3456784Z,Singaporean,44,Male,7/9/19,Misappropriation,,12500.00,408,15,1200.00,Yes,Unemployed,0,9,1440.00
+Jia Hui,S3456784S,Singaporean,35,Female,8/9/19,Misappropriation,,14000.00,408,15,1500.00,No,Employed,0,10,1500.00
+Jia Hao,S3456784L,Singaporean,23,Male,9/9/19,Outrage Modesty,,,354(1),2,900.00,No,Employed,9,2,900.00
+Xin Yi,S3456784L,Singaporean,27,Female,10/9/19,Misappropriation,,3560.00,"406 , 34",7,500.00,Yes,Unemployed,0,2,600.00
+Hui Jie,S3456784Z,Singaporean,30,Male,11/9/19,Outrage Modesty,,,354(1),2,1200.00,Yes,Employed,9,1,1440.00
+Hui Min,S3456784S,Singaporean,32,Female,12/9/19,Misappropriation,,4200.00,"406 , 34",7,1200.00,Yes,Unemployed,0,1,1440.00
+Jia Yong,S3456784L,Singaporean,39,Male,13/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,6,1,700.00
+Jing Yi,S3456784R,Singaporean,43,Female,14/9/19,Misappropriation,,4500.00,"406 , 34",7,900.00,Yes,Employed,0,3,1080.00
+Yi Wei,S3456784Z,Singaporean,47,Male,15/9/19,Misappropriation,,5000.00,408,15,900.00,No,Unemployed,0,6,900.00
+Sze Jie,S3456784S,Singaporean,51,Male,16/9/19,Outrage Modesty,,,354(1),2,500.00,Yes,Unemployed,5,1,600.00
+Hui Ting,S3456784P,Singaporean,56,Female,17/9/19,Misappropriation,,7200.00,408,15,1500.00,Yes,Employed,0,6,1800.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Employed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,700.00,No,Employed,4,1,700.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,No,Unemployed,9,1,500.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,No,Unemployed,0,5,1000.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Employed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Unemployed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Employed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,5,2400.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,1,700.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1200.00,Yes,Employed,0,8,1440.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,No,Employed,0,6,1000.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3890.00,408,15,500.00,No,Unemployed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Unemployed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Employed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Jun Jie,S3456784H,Singaporean,33,Male,5/9/19,Outrage Modesty,,,354(1),2,1000.00,No,Unemployed,8,1,1000.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,Yes,Unemployed,0,8,1500.00
+Zhi Hao,S3456784Z,Singaporean,44,Male,7/9/19,Misappropriation,,12500.00,408,15,1200.00,No,Employed,0,9,1200.00
+Jia Hui,S3456784S,Singaporean,35,Female,8/9/19,Misappropriation,,14000.00,408,15,1500.00,Yes,Employed,0,10,1800.00
+Jia Hao,S3456784L,Singaporean,23,Male,9/9/19,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,8,2,1080.00
+Xin Yi,S3456784L,Singaporean,27,Female,10/9/19,Misappropriation,,4000.00,"406 , 34",7,500.00,No,Employed,0,2,500.00
+Hui Jie,S3456784Z,Singaporean,34,Male,11/9/19,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,9,2,900.00
+Hui Min,S3456784S,Singaporean,30,Female,12/9/19,Misappropriation,,4400.00,"406 , 34",7,1000.00,Yes,Employed,0,2,1200.00
+Jia Yong,S3456784L,Singaporean,39,Male,13/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,6,1,840.00
+Jing Yi,S3456784R,Singaporean,43,Female,14/9/19,Misappropriation,,4500.00,"406 , 34",7,900.00,Yes,Unemployed,0,3,1080.00
+Yi Wei,S3456784Z,Singaporean,47,Male,15/9/19,Misappropriation,,5000.00,408,15,900.00,No,Unemployed,0,6,900.00
+Sze Jie,S3456784S,Singaporean,51,Male,16/9/19,Outrage Modesty,,,354(1),2,500.00,Yes,Employed,5,1,600.00
+Hui Ting,S3456784P,Singaporean,54,Female,17/9/19,Misappropriation,,7100.00,408,15,1600.00,No,Employed,0,6,1600.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,35,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Employed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,7,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,No,Employed,8,1,500.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Unemployed,0,6,3600.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,No,Employed,0,5,1000.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Unemployed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Employed,0,10,2160.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Unemployed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,5,2400.00
+Jun Jie,S3456784H,Singaporean,33,Male,5/9/19,Outrage Modesty,,,354(1),2,1000.00,No,Employed,8,1,1000.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,Yes,Employed,0,8,1500.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3000.00,408,15,500.00,Yes,Unemployed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,No,Employed,4,1,1000.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,No,Employed,0,5,800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Unemployed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Employed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,7,2400.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Employed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,Yes,Unemployed,8,1,600.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,11000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Employed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Unemployed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,Singaporean,55,Female,12/5/19,Misappropriation,,22000.00,"406 , 34",7,2000.00,Yes,Employed,0,5,2400.00
+Kian Doman,S8763456K,Singaporean,44,Male,12/9/14,Misappropriation,,24000.00,408,15,2000.00,Yes,Employed,0,11,2400.00
+Sergey Brian,S45995978Y,Singaporean,65,Male,13/9/14,Misappropriation,,24000.00,408,15,1800.00,No,Employed,0,10,1800.00
+Heng Swee Chan,S45995967Y,Malaysian,34,Male,14/9/14,Misappropriation,,23000.00,"406 , 34",7,2500.00,Yes,Unemployed,0,5,3000.00
+Meryl Lee,S45995974T,Singaporean,21,Female,15/9/14,Misappropriation,,4000.00,408,15,1000.00,No,Unemployed,0,3,1000.00
+Kitman See,S45995459T,Singaporean,45,Male,16/9/14,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,7,1,1080.00
+Clement Lee,S4567895F,Singaporean,40,Male,3/4/11,Outrage Modesty,,,354(1),2,2100.00,Yes,Employed,3,1,2520.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Unemployed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,Yes,Employed,4,1,720.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,No,Unemployed,0,5,2000.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1200.00,No,Employed,0,9,1200.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,Yes,Unemployed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Unemployed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,3450.00,408,15,500.00,Yes,Employed,0,2,600.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,No,Employed,4,1,1000.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Unemployed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,No,Employed,8,1,500.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,No,Unemployed,0,7,2000.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,9,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,No,Unemployed,0,5,1000.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Employed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,9,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Unemployed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Unemployed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Employed,0,5,2400.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1250.00,Yes,Unemployed,0,8,1500.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,No,Employed,7,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,4100.00,408,15,500.00,No,Employed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Unemployed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,0.5,700.00
+Jun Jie,S3456784H,Singaporean,33,Male,5/9/19,Outrage Modesty,,,354(1),2,1000.00,No,Unemployed,8,1,1000.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,Yes,Employed,0,8,1500.00
+Zhi Hao,S3456784Z,Singaporean,44,Male,7/9/19,Misappropriation,,12500.00,408,15,1200.00,Yes,Unemployed,0,9,1440.00
+Jia Hui,S3456784S,Singaporean,35,Female,8/9/19,Misappropriation,,14000.00,408,15,1500.00,No,Employed,0,10,1500.00
+Jia Hao,S3456784L,Singaporean,23,Male,9/9/19,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,8,2,1080.00
+Xin Yi,S3456784L,Singaporean,27,Female,10/9/19,Misappropriation,,2500.00,"406 , 34",7,500.00,No,Unemployed,0,2,500.00
+Hui Jie,S3456784Z,Singaporean,28,Male,11/9/19,Outrage Modesty,,,354(1),2,1200.00,Yes,Employed,9,1,1440.00
+Hui Min,S3456784S,Singaporean,32,Female,12/9/19,Misappropriation,,4300.00,"406 , 34",7,1200.00,No,Employed,0,1,1200.00
+Jia Yong,S3456784L,Singaporean,39,Male,13/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,6,1,840.00
+Jing Yi,S3456784R,Singaporean,43,Female,14/9/19,Misappropriation,,4500.00,"406 , 34",7,900.00,Yes,Employed,0,3,1080.00
+Yi Wei,S3456784Z,Singaporean,47,Male,15/9/19,Misappropriation,,5000.00,408,15,900.00,Yes,Unemployed,0,6,1080.00
+Sze Jie,S3456784S,Singaporean,51,Male,16/9/19,Outrage Modesty,,,354(1),2,500.00,No,Unemployed,5,1,500.00
+Hui Ting,S3456784P,Singaporean,53,Female,17/9/19,Misappropriation,,8000.00,408,15,1500.00,Yes,Employed,0,6,1800.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,43,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Unemployed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Unemployed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,No,Employed,9,1,500.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,No,Employed,0,7,2000.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,1300.00,Yes,Employed,5,1,1560.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Unemployed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Employed,9,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Employed,0,6,3600.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,No,Unemployed,0,5,1000.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Unemployed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Employed,8,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Employed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Unemployed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Employed,0,5,2400.00
+Jun Jie,S3456784H,Singaporean,33,Male,5/9/19,Outrage Modesty,,,354(1),2,1000.00,Yes,Unemployed,8,1,1200.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,Yes,Employed,0,8,1500.00
+Zhi Hao,S3456784Z,Singaporean,44,Male,7/9/19,Misappropriation,,12500.00,408,15,1200.00,No,Employed,0,9,1200.00
+Jia Hui,S3456784S,Singaporean,35,Female,8/9/19,Misappropriation,,14000.00,408,15,1500.00,Yes,Unemployed,0,10,1800.00
+Jia Hao,S3456784L,Singaporean,23,Male,9/9/19,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,8,2,900.00
+Xin Yi,S3456784L,Singaporean,27,Female,10/9/19,Misappropriation,,2800.00,"406 , 34",7,500.00,Yes,Employed,0,2,600.00
+Hui Jie,S3456784Z,Singaporean,35,Male,11/9/19,Outrage Modesty,,,354(1),2,1200.00,Yes,Employed,9,1,1440.00
+Hui Min,S3456784S,Singaporean,33,Female,12/9/19,Misappropriation,,4100.00,"406 , 34",7,1000.00,No,Unemployed,0,2,1000.00
+Jia Yong,S3456784L,Singaporean,39,Male,13/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,6,1,700.00
+Jing Yi,S3456784R,Singaporean,43,Female,14/9/19,Misappropriation,,4500.00,"406 , 34",7,900.00,Yes,Unemployed,0,3,1080.00
+Yi Wei,S3456784Z,Singaporean,47,Male,15/9/19,Misappropriation,,5000.00,408,15,900.00,Yes,Employed,0,6,1080.00
+Sze Jie,S3456784S,Singaporean,51,Male,16/9/19,Outrage Modesty,,,354(1),2,500.00,No,Employed,5,1,500.00
+Hui Ting,S3456784P,Singaporean,56,Female,17/9/19,Misappropriation,,8200.00,408,15,1500.00,Yes,Unemployed,0,6,1800.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,Yes,Employed,8,1,600.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,No,Employed,0,6,3000.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,4,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,No,Employed,8,1,500.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Employed,0,7,2400.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,No,Unemployed,0,5,1000.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,Yes,Employed,5,1,600.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,Yes,Unemployed,9,1,480.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,No,Employed,0,10,1800.00
+Krishnan Savana,S8763456C,Malaysian,43,Male,23/4/17,Outrage Modesty,4:00:00 PM,,354(1),2,600.00,No,Unemployed,4,1,600.00
+Lem Ah Kin,S7654343W,SIngaporean,55,Female,12/5/19,Misappropriation,,20000.00,"406 , 34",7,2000.00,Yes,Employed,0,5,2400.00
+Lim Swee Kai,S3456789B,Malaysian,46,Male,4/5/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,1,840.00
+Charles Kow,S1234568K,Singaporean,38,Male,4/10/17,Misappropriation,,10000.00,408,15,1200.00,Yes,Unemployed,0,8,1440.00
+Vincent Lee,G3499481W,Australian,43,Male,12/5/12,Outrage Modesty,,,354(1),2,0.00,No,Employed,8,1,0.00
+Katie Perry,G4599584W,American,28,Female,12/6/11,Misappropriation,,12000.00,"406 , 34",7,1000.00,Yes,Employed,0,6,1200.00
+Patrick Gow,G1234589T,Singaporean,67,Male,1/5/13,Misappropriation,,2900.00,408,15,500.00,No,Employed,0,2,500.00
+San Tan Wei,S7654322W,Malaysian,48,Male,2/4/15,Outrage Modesty,,,354(1),2,1000.00,Yes,Employed,4,1,1200.00
+Lem Ah Kim,S3456789C,Singaporean,38,Female,3/5/16,Misappropriation,,5000.00,408,15,800.00,Yes,Unemployed,0,5,960.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Unemployed,5,0.5,700.00
+Jun Jie,S3456784H,Singaporean,33,Male,5/9/19,Outrage Modesty,,,354(1),2,1000.00,No,Employed,8,1,1000.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,Yes,Employed,0,8,1500.00
+Zhi Hao,S3456784Z,Singaporean,44,Male,7/9/19,Misappropriation,,12500.00,408,15,1200.00,Yes,Unemployed,0,9,1440.00
+Jia Hui,S3456784S,Singaporean,35,Female,8/9/19,Misappropriation,,14000.00,408,15,1500.00,Yes,Unemployed,0,10,1800.00
+Jia Hao,S3456784L,Singaporean,23,Male,9/9/19,Outrage Modesty,,,354(1),2,900.00,No,Employed,8,2,900.00
+Xin Yi,S3456784L,Singaporean,27,Female,10/9/19,Misappropriation,,3200.00,"406 , 34",7,500.00,Yes,Employed,0,2,600.00
+Hui Jie,S3456784Z,Singaporean,45,Male,11/9/19,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,9,2,900.00
+Hui Min,S3456784S,Singaporean,36,Female,12/9/19,Misappropriation,,4000.00,"406 , 34",7,1200.00,Yes,Employed,0,1,1440.00
+Jia Yong,S3456784L,Singaporean,39,Male,13/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,6,1,840.00
+Jing Yi,S3456784R,Singaporean,43,Female,14/9/19,Misappropriation,,4500.00,"406 , 34",7,900.00,No,Employed,0,3,900.00
+Yi Wei,S3456784Z,Singaporean,47,Male,15/9/19,Misappropriation,,5000.00,408,15,900.00,No,Employed,0,6,900.00
+Sze Jie,S3456784S,Singaporean,51,Male,16/9/19,Outrage Modesty,,,354(1),2,500.00,Yes,Unemployed,5,1,600.00
+Hui Ting,S3456784P,Singaporean,57,Female,17/9/19,Misappropriation,,7500.00,408,15,1200.00,Yes,Unemployed,0,7,1440.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,No,Employed,5,0.5,700.00
+Clement Lee,S4567895F,Singaporean,48,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,6,1,1080.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Unemployed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,Yes,Employed,8,1,1080.00
+Yi Ling,S3456784L,Singaporean,43,Female,6/9/19,Misappropriation,,10000.00,408,15,1250.00,No,Unemployed,0,8,1250.00
+Zhi Hao,S3456784Z,Singaporean,44,Male,7/9/19,Misappropriation,,12500.00,408,15,1200.00,Yes,Employed,0,9,1440.00
+Jia Hui,S3456784S,Singaporean,35,Female,8/9/19,Misappropriation,,14000.00,408,15,1500.00,Yes,Employed,0,10,1800.00
+Jia Hao,S3456784L,Singaporean,23,Male,9/9/19,Outrage Modesty,,,354(1),2,900.00,No,Unemployed,8,2,900.00
+Xin Yi,S3456784L,Singaporean,27,Female,10/9/19,Misappropriation,,3300.00,"406 , 34",7,500.00,No,Unemployed,0,2,500.00
+Hui Jie,S3456784Z,Singaporean,35,Male,11/9/19,Outrage Modesty,,,354(1),2,1200.00,Yes,Employed,9,1,1440.00
+Hui Min,S3456784S,Singaporean,37,Female,12/9/19,Misappropriation,,4450.00,"406 , 34",7,1250.00,Yes,Employed,0,1,1500.00
+Jia Yong,S3456784L,Singaporean,39,Male,13/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,6,1,840.00
+Jing Yi,S3456784R,Singaporean,43,Female,14/9/19,Misappropriation,,4500.00,"406 , 34",7,900.00,No,Employed,0,3,900.00
+Yi Wei,S3456784Z,Singaporean,47,Male,15/9/19,Misappropriation,,5000.00,408,15,900.00,Yes,Unemployed,0,6,1080.00
+Sze Jie,S3456784S,Singaporean,51,Male,16/9/19,Outrage Modesty,,,354(1),2,500.00,No,Employed,5,1,500.00
+Hui Ting,S3456784P,Singaporean,58,Female,17/9/19,Misappropriation,,8000.00,408,15,1000.00,Yes,Employed,0,7,1200.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Unemployed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,46,Male,3/4/11,Outrage Modesty,,,354(1),2,500.00,No,Unemployed,4,1,500.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,No,Employed,0,8,1100.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),1,500.00,Yes,Employed,14,1,600.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,3000.00,Yes,Unemployed,0,6,3600.00
+Randy Tao,S3456784C,Singaporean,29,Male,4/9/19,Outrage Modesty,,,354(1),2,700.00,Yes,Employed,5,0.5,840.00
+Clement Lee,S4567895F,Singaporean,49,Male,3/4/11,Outrage Modesty,,,354(1),2,900.00,No,Employed,4,1,900.00
+Katie Holmes ,G4599567B,American,29,Female,9/5/19,Misappropriation,,9000.00,408,15,1100.00,Yes,Employed,0,8,1320.00
+Derek Goh,S4599589C,Singaporean,34,Male,9/4/18,Outrage Modesty,,,354(1),2,900.00,No,Employed,8,1,900.00
+Heng Swee Goh,S4599598D,Singaporean,45,Male,9/5/18,Misappropriation,,12000.00,"406 , 34",7,2000.00,Yes,Unemployed,0,7,2400.00
+Lim Swee Noi,S7654321X,Singaporean,35,Female,7/4/19,Misappropriation,,3500.25,408,15,1000.00,Yes,Employed,0,5,1200.00
+Vincent Loh,S8763456B,Singaporean,44,Male,12/7/18,Outrage Modesty,4:00:00 PM,,354(1),2,500.00,No,Unemployed,5,1,500.00
+Tan Ser Kow,S4567899B,Malaysian,34,Male,12/6/18,Outrage Modesty,5:00:00 PM,,354(1),2,400.00,No,Employed,8,1,400.00
+Venkatarman Saravana,S1234567R,Singaporean,28,Male,13/5/15,Misappropriation,6:00:00 PM,24000.00,408,15,1800.00,Yes,Unemployed,0,10,2160.00
